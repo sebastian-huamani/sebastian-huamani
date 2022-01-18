@@ -1,5 +1,5 @@
-
-<img align="right" height="590em" src="https://github.com/sebastian-huamani/sebastian-huamani/blob/main/bg.png"/>
+<!-- 
+<img align="right" height="590em" src="https://github.com/sebastian-huamani/sebastian-huamani/blob/main/bg.png"/> -->
 
 <h1 align="left">Hola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, soy Sebastian</h1>
 
