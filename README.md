@@ -1,7 +1,6 @@
 <!-- 
 <img align="right" height="590em" src="https://github.com/sebastian-huamani/sebastian-huamani/blob/main/bg.png"/> -->
 
-<h1 align="left">Hola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, soy Sebastian</h1>
 
 <div style='display: inline_block' >
   <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
