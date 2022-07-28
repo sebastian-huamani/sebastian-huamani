@@ -24,23 +24,11 @@
 
 <br><br>
 
-<div  style='display: flex' >
-
-  <img height="180em"  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-huamani&layout=compact&langs_count=7&theme=dark"/>
-   		
-  <div >
- aaaaa
-  </div>
+<div align="center">
+     <img height="180em"  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-huamani&layout=compact&langs_count=7&theme=dark"/>
+ 
+<div>
   
-</div>
-
-<table cellpadding="0" style="border: 0;"  align="center">
-  <tr style="padding: 0">
-    <td valign="top"> <img height="180em"  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-huamani&layout=compact&langs_count=7&theme=dark"/> </td>
-    <td valign="top"> aaaaa </td>
-  </tr>
-</table>
-
   
 
 <div align="center"  >
