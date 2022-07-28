@@ -32,7 +32,11 @@
 </div>
 <br><br>
 
-<div align="left"   >
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=sebastian huamani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-huamani&layout=compact&langs_count=7&theme=dark"/>
+<div align="center"   >
+   <a href="https://github.com/sebastian-huamani/sebastian-huamani"></a>
+    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sebastian-huamani&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-huamani&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
