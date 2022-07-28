@@ -3,18 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<div align='center'>
-<a href="https://twitter.com/datcanelita" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="">
-</a>
-  <a href="https://linkedin.com/in/huamanitassara/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
-</a>
-
-</div>
-
-
-</h1>
 <br>
 
 <div style='display: inline_block' align='center'>
@@ -33,13 +21,38 @@
   <img  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
   <img  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
+
 <br><br>
 
-<div align="center"   >
-   <a href="https://github.com/sebastian-huamani/sebastian-huamani"></a>
-    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sebastian-huamani&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div  style='display: flex' >
 
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-huamani&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em"  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-huamani&layout=compact&langs_count=7&theme=dark"/>
+   		
+  <div >
+ aaaaa
+  </div>
+  
 </div>
 
+<table cellpadding="0" style="border: 0;"  align="center">
+  <tr style="padding: 0">
+    <td valign="top"> <img height="180em"  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-huamani&layout=compact&langs_count=7&theme=dark"/> </td>
+    <td valign="top"> aaaaa </td>
+  </tr>
+</table>
+
+  
+
+<div align="center"  >
+
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sebastian-huamani&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align='center'>
+<a href="https://twitter.com/datcanelita" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="">
+</a>
+  <a href="https://linkedin.com/in/huamanitassara/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+</a>
