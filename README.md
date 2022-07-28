@@ -32,8 +32,8 @@
 </div>
 <br><br>
 
-<div align="left" >
+<div align="left" style='display: flex' >
   <a href="https://github.com/sebastian-huamani">
-  <img height="180em" width="450em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-huamani&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=sebastian-huamani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-huamani&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="" src="https://github-readme-stats.vercel.app/api?username=sebastian-huamani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
