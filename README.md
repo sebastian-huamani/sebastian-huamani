@@ -22,7 +22,7 @@
   <img  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
      <img height="180em"  width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-huamani&layout=compact&langs_count=7&theme=dark"/>
