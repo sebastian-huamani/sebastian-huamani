@@ -25,7 +25,8 @@
 <br>
 
 <div align="center">
-     <img height="200em"  width="800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-huamani&layout=compact&langs_count=7&theme=dark"/>
+     <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sebastian-huamani&layout=compact&langs_count=7&theme=dark"/>
+
  
 <div>
   
