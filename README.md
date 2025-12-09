@@ -1,5 +1,5 @@
 <h3 align="center">
-  ¡Bienvenido! 👋
+  ¡Bienvenido!
   <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/200w.webp" width="28">
 </h3>
 
